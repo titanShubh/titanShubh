@@ -22,14 +22,6 @@
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime"/> 
   </a>
 </p>
-<h2 align="center">Competitive Programming</h2>
-<p align="center"> 
-  <a href="https://www.codechef.com/users/titan_sh" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/> 
-  </a>
-  <a href="https://codeforces.com/profile/titan_2" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
-  </a>
 </p>  
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
