@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
   </a>
 </p>  
----
 <h2 align = "center"> 📫 Reach me on 📫 </h2>
 <p align = "center"> 
   <a  href = "https://www.linkedin.com/in/shubh-gupta-2ab23a280/" target = "_blank"> 
