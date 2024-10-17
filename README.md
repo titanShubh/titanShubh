@@ -47,8 +47,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "abhishek232004" />
   </a>
 </p>
-
----
-<h2 align="center">HacktoberFest 2022 </h2>
-
-[![@abhishek_srivastava's Holopin board](https://holopin.me/abhishek_srivastava)](https://holopin.io/@abhishek_srivastava)
