@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CAPSULE RENDER ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=titanShubh&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=GenAI%20%26%20Agentic%20Systems%20%7C%20SDE%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=titanShubh&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=GenAI%20and%20Agentic%20Systems%20%7C%20SDE%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=8b949e"/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -135,7 +135,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=titanShubh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=titanShubh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=titanShubh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanShubh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 
