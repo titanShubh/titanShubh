@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CAPSULE RENDER ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=titanShubh&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=GenAI%20Engineer%20%7C%20SDE%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=titanShubh&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=GenAI%20%26%20Agentic%20Systems%20%7C%20SDE%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=8b949e"/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -21,10 +21,10 @@
 
 <!-- ABOUT ME — YAML-style, unique & professional -->
 ```yaml
-name        : Shubh
+name        : Shubh Gupta
 alias       : titanShubh
 college     : IET Lucknow, B.Tech CSE (2023–2027)
-focus       : ["GenAI Engineering", "LLM Orchestration", "SDE", "Competitive Programming"]
+focus       : ["GenAI Engineering", "Multi-Agent Orchestration", "SDE", "Competitive Programming"]
 building    : Multi-agent AI systems, RAG pipelines, LLM-powered apps
 ask_me_about: ["LangChain", "LangGraph", "RAG", "Vector DBs", "DSA", "System Design"]
 reach_me_at : [LinkedIn, LeetCode, Codeforces, CodeChef, AtCoder]
@@ -39,7 +39,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 <!-- AI/ML Stack -->
 <div align="center">
 
-**🤖 AI / GenAI**
+**🤖 AI / GenAI & Agentic Systems**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
@@ -51,6 +51,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 
 **🗄️ Vector DBs & Storage**
 
+![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=for-the-badge&logo=qdrant&logoColor=red)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00897B)
 ![Weaviate](https://img.shields.io/badge/Weaviate-0d1117?style=for-the-badge&logo=weaviate&logoColor=00BFFF)
@@ -58,17 +59,26 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 **⚙️ Languages & SDE**
 
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🛠️ Tools & DevOps**
+**🗃️ Databases & Caching**
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DD0031)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**🛠️ Tools, Data & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 
 </div>
 
@@ -78,14 +88,44 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 
 <div align="center">
 
-| Platform | Profile | Status |
-|:--------:|:-------:|:------:|
-| <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/> | [titanShubh](https://codeforces.com/profile/titanShubh) | 🔥 Active |
-| <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/> | [titanShubh](https://leetcode.com/titanShubh) | ⚡ Active |
-| <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/> | [titanShubh](https://www.codechef.com/users/titanShubh) | 🎯 Active |
-| <img src="https://img.shields.io/badge/AtCoder-0d1117?style=for-the-badge&logo=atcoder&logoColor=white"/> | [titanShubh](https://atcoder.jp/users/titanShubh) | 💡 Active |
+| Platform | Profile | Rating & Level |
+|:--------:|:-------:|:--------------:|
+| <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/> | [titanShubh](https://codeforces.com/profile/titanShubh) | 🔵 **Expert** (1794) |
+| <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/> | [titanShubh](https://leetcode.com/titanShubh) | 🟡 **Guardian** (2245) |
+| <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/> | [titanShubh](https://www.codechef.com/users/titanShubh) | 🔶 **5-Star** |
+| <img src="https://img.shields.io/badge/AtCoder-0d1117?style=for-the-badge&logo=atcoder&logoColor=white"/> | [titanShubh](https://atcoder.jp/users/titanShubh) | 🔵 **2 Kyu** Blue (1617) |
+
+*Solved **2500+** algorithmic problems across platforms*
 
 </div>
+
+### 🎯 Key Contest Highlights
+- 🏆 **Global Rank 38** in CodeChef Starters 169 (Rated, Division 2)
+- 🏆 **Global Rank 199** in Codeforces Round 1029 (Div. 3)
+- 🏆 **Global Rank 358** in LeetCode Weekly Contest 422 (26,000+ participants)
+- 🏆 **Global Rank 2881** in Meta Hacker Cup 2024 (20,000+ participants globally)
+
+---
+
+## 🚀 Key Projects
+
+### 🤖 Multi-Agent Competitive Programming Coach
+*Architected a stateful multi-agent system utilizing **LangGraph** and **LangChain**.*
+- Deployed a central **Supervisor Agent** that dynamically routes queries across seven specialized nodes (Problem Analyzer, Complexity Analyzer, Learning Memory, etc.).
+- Engineered an asynchronous **FastAPI** backend using **SQLModel** and **Server-Sent Events (SSE)** to stream structured reasoning logs with sub-100ms latency.
+- Configured **Qdrant Cloud Vector Database** for semantic problem retrieval integrated with **PostgreSQL** for persistent tracking.
+
+### 🌐 NexusAI — Enterprise Agentic Orchestration Platform
+*A high-performance stateful multi-agent system designed for automated query routing.*
+- Utilized **LangGraph** to analyze query intent and orchestrate execution across specialized SQL, RAG, and Python Pandas nodes.
+- Built a secure, self-healing SQL executor using **SQLAlchemy 2.0** with an AST-based validator to prevent injections.
+- Built a spreadsheet analytics sandbox utilizing **Pandas** and **Plotly** to render statistical charts dynamically.
+
+### 🛡️ Network Sentinel — Full-Stack Security Assessment Platform
+*A multi-threaded port scanner and real-time vulnerability analysis engine.*
+- Engineered a socket-level host discovery engine using **ThreadPoolExecutor** in Python.
+- Implemented bidirectional **WebSockets** communication to stream live scan telemetry and latencies to a React dashboard.
+- Containerized the application stack (FastAPI, Nginx, SQLite, React) using **Docker Compose**.
 
 ---
 
@@ -114,18 +154,6 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/titanShubh/titanShubh/output/github-snake.svg" />
   </picture>
 </div>
-
----
-
-## 🚀 What I'm Building
-
-```
-🤖  Multi-agent LLM orchestration systems using LangGraph
-🔍  Production-ready RAG pipelines with hybrid search
-🌐  Full-stack AI-powered applications
-⚡  Optimizing inference latency for real-time LLM apps
-📚  Grinding DSA + System Design for top tech interviews
-```
 
 ---
 
