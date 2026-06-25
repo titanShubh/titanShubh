@@ -91,11 +91,15 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 | Platform | Profile | Rating & Level |
 |:--------:|:-------:|:--------------:|
 | <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/> | [titanShubh](https://codeforces.com/profile/titanShubh) | 🔵 **Expert** (1794) |
-| <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/> | [titanShubh](https://leetcode.com/titanShubh) | 🟡 **Guardian** (2245) |
+| <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/> | [titanShubh](https://leetcode.com/u/titanShubh/) | 🟡 **Guardian** (2245) |
 | <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/> | [titanShubh](https://www.codechef.com/users/titanShubh) | 🔶 **5-Star** |
 | <img src="https://img.shields.io/badge/AtCoder-0d1117?style=for-the-badge&logo=atcoder&logoColor=white"/> | [titanShubh](https://atcoder.jp/users/titanShubh) | 🔵 **2 Kyu** Blue (1617) |
 
 *Solved **2500+** algorithmic problems across platforms*
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/titanShubh?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats Card" />
 
 </div>
 
@@ -132,6 +136,12 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-trophies.devomb.com/?username=titanShubh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=titanShubh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanShubh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
@@ -141,6 +151,18 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 <img width="99%" src="https://streak-stats.demolab.com/?user=titanShubh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
+
+<!-- 
+### ⏱️ WakaTime Weekly Coding Stats
+To activate your live WakaTime coding telemetry:
+1. Sign up at https://wakatime.com and install the VS Code plugin.
+2. Enable "Public Dashboard" in your settings.
+3. Uncomment the image code below:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=titanShubh&theme=github_dark&layout=compact" alt="WakaTime Stats" />
+</p>
+-->
 
 ---
 
@@ -154,6 +176,14 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
   </picture>
 </div>
 
+<br/>
+
+## 📐 Isometric 3D Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/titanShubh/titanShubh/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+</div>
+
 ---
 
 ## 🤝 Connect With Me
@@ -161,7 +191,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shubh-gupta-2ab23a280/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/titanShubh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/titanShubh/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/titanShubh)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:guptashubh926@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titanShubh)
