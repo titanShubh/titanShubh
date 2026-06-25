@@ -91,7 +91,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 | Platform | Profile | Rating & Level |
 |:--------:|:-------:|:--------------:|
 | <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/> | [titanShubh](https://codeforces.com/profile/titanShubh) | 🔵 **Expert** (1794) |
-| <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/> | [titanShubh](https://leetcode.com/u/titanShubh/) | 🟡 **Guardian** (2245) |
+| <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/> | [guptashubh6386](https://leetcode.com/u/guptashubh6386/) | 🟡 **Guardian** (2245) |
 | <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/> | [titanShubh](https://www.codechef.com/users/titanShubh) | 🔶 **5-Star** |
 | <img src="https://img.shields.io/badge/AtCoder-0d1117?style=for-the-badge&logo=atcoder&logoColor=white"/> | [titanShubh](https://atcoder.jp/users/titanShubh) | 🔵 **2 Kyu** Blue (1617) |
 
@@ -106,7 +106,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 - 🏆 **Global Rank 2881** in Meta Hacker Cup 2024 (20,000+ participants globally)
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/titanShubh?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/guptashubh6386?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" />
 </div>
 
 ---
@@ -203,7 +203,7 @@ To activate your live WakaTime coding telemetry:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shubh-gupta-2ab23a280/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/titanShubh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/guptashubh6386/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/titanShubh)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:guptashubh926@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titanShubh)
