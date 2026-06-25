@@ -97,10 +97,6 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 
 *Solved **2500+** algorithmic problems across platforms*
 
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/titanShubh?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats Card" />
-
 </div>
 
 ### 🎯 Key Contest Highlights
@@ -108,6 +104,18 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 - 🏆 **Global Rank 199** in Codeforces Round 1029 (Div. 3)
 - 🏆 **Global Rank 358** in LeetCode Weekly Contest 422 (26,000+ participants)
 - 🏆 **Global Rank 2881** in Meta Hacker Cup 2024 (20,000+ participants globally)
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/titanShubh?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" />
+</div>
+
+---
+
+## ⏱️ This Week I Coded
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=titanShubh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact" />
+</div>
 
 ---
 
@@ -136,12 +144,6 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-trophies.devomb.com/?username=titanShubh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=titanShubh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titanShubh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
@@ -150,6 +152,14 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 
 <img width="99%" src="https://streak-stats.demolab.com/?user=titanShubh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.devomb.com/?username=titanShubh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
 <!-- 
@@ -178,11 +188,13 @@ To activate your live WakaTime coding telemetry:
 
 <br/>
 
-## 📐 Isometric 3D Contributions
+## 📊 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/titanShubh/titanShubh/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
+
+> ⚡ Auto-updates daily via GitHub Actions
 
 ---
 
