@@ -109,7 +109,8 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
   <img src="https://leetcard.jacoblin.cool/guptashubh6386?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" />
 </div>
 
-<!--
+---
+
 ## ⏱️ This Week I Coded
 
 <div align="center">
@@ -117,7 +118,6 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
 </div>
 
 ---
--->
 
 ## 🚀 Key Projects
 
