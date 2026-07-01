@@ -109,15 +109,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
   <img src="https://leetcard.jacoblin.cool/guptashubh6386?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=20" />
 </div>
 
----
 
-## ⏱️ This Week I Coded
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=titanShubh&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&v=1" />
-</div>
-
----
 
 ## 🚀 Key Projects
 
@@ -162,17 +154,7 @@ status      : "Actively seeking GenAI & SDE internships/roles 🚀"
   <img src="https://github-trophies.devomb.com/?username=titanShubh&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
 
-<!-- 
-### ⏱️ WakaTime Weekly Coding Stats
-To activate your live WakaTime coding telemetry:
-1. Sign up at https://wakatime.com and install the VS Code plugin.
-2. Enable "Public Dashboard" in your settings.
-3. Uncomment the image code below:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=titanShubh&theme=github_dark&layout=compact" alt="WakaTime Stats" />
-</p>
--->
 
 ---
 
